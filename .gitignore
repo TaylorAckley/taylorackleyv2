@@ -1,4 +1,5 @@
 .DS_Store
-bower_components
+bower_components/foundation-sites
+bower_components/motion-ui
 node_modules
 npm-debug.log
